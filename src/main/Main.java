@@ -1,4 +1,4 @@
-package encryptdecrypt;
+package src.main;
 
 import java.io.IOException;
 import java.nio.file.Files;
