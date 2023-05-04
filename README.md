@@ -1,4 +1,4 @@
-# hyperskill-Encryption-Decryption-Java
+# Encryption Decryption
 
 [Encryption Decryption](https://hyperskill.org/projects/46) provides a chance to become familiar with handling files and command line parameters, as well as learning some basic encryption techniques.
 
