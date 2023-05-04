@@ -12,18 +12,17 @@ Input:
 > java Application -mode enc -key 7 -data "Welcome to Encryption-Decryption" -alg unicode
 
 Output:
-The input is: Welcome to Encryption-Decryption
-The result is: ^lsjvtl'{v'Lujy w{pvu4Kljy w{pvu
+^lsjvtl'{v'Lujy w{pvu4Kljy w{pvu
 
 
 Example 2
 
 Input:
 > java Application -mode enc -in road_to_treasure.txt -out protected.txt -key 7 -alg unicode
+The input from the txt file is: "I hope you enjoy learning java"
 
 Output:
-The input to encrypt is: "I hope you enjoy learning java"
-The result is: )P'ovwl' v|'luqv 'slhyupun'qh}h)
+)P'ovwl' v|'luqv 'slhyupun'qh}h)
 
 
 Example 3
@@ -32,6 +31,5 @@ Input:
 > java Application -key 5 -alg shift -data "Bjqhtrj yt jshwduynts-ijhwduynts" -mode dec
 
 Output:
-The input is: Bjqhtrj yt jshwduynts-ijhwduynts
-The result is: Welcome to encryption-decryption
+Welcome to encryption-decryption
 ```
