@@ -15,16 +15,16 @@ Output:
 The input is: Welcome to Encryption-Decryption
 The result is: ^lsjvtl'{v'Lujy w{pvu4Kljy w{pvu
 
+
 Example 2
 
 Input:
 > java Application -mode enc -in road_to_treasure.txt -out protected.txt -key 7 -alg unicode
 
-This command gets data from the file road_to_treasure.txt, encrypt the data with the key 5, create a file called protected.txt and write ciphertext to it.
-
 Output:
 The input to encrypt is: "I hope you enjoy learning java"
 The result is: )P'ovwl' v|'luqv 'slhyupun'qh}h)
+
 
 Example 3
 
